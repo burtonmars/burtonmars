@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **burtonmars/burtonmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full stack developer with a BSc in Computer Science from the University of British Columbia (2022). My most relevant experience comes from my 1 year COOP followed by a 1+ year permanent position as a full stack developer on the devops team at Mitacs, a research and innovation focused Canadian gem that was recognized as a key contributer to job creation during the pandemic by representatives at the highest level of the [Canadian government](https://pm.gc.ca/en/videos/2020/06/25/remarks-additional-support-students-and-recent-grads). 
+I'm a full stack developer with a BSc in Computer Science from the University of British Columbia (2022). My most relevant experience comes from my 1 year COOP as a full-stack developer followed by a 1+ year permanent position as a software developer on the dev-ops team at Mitacs, a Canadian research and innovation nonprofit that was recognized as a key contributer to job creation during the pandemic by representatives at the highest level of the [Canadian government](https://pm.gc.ca/en/videos/2020/06/25/remarks-additional-support-students-and-recent-grads).
+
+I have recently been mainly focused on contributing to Mitacs' client facing appliccation portals via feature enhancements, bug fixes, security enhacements, as well as spending time on my hobbies, which include building PCs, penetration testing, and IOT devices. I love problem solving and logic puzzles, but also honing my creativity and finding ways to make people's lives easier. I'm obsessed with everything technology and I am constantly looking for new hard-tech and software innovations. I am constantly learning and never willing to settle for the status-quo development practices simply because of their popularity. I am a fantastic team player who strives to combine best-practice coding with a hunger for innovation to consistently push the boundries of any project to live up to the most cutting edge and relevant technologies and practices. 
