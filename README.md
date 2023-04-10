@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full stack developer with a BSc in Computer Science from the University of British Columbia (2022). My most relevant experience comes from my 1 year COOP followed by a 1+ year permanent position as a full stack developer on the devops team at Mitacs, a research and innovation focused Canadian gem that was recognized as a key contributer to job creation during the pandemic by representatives at the highest level of the [Canadian government] (https://pm.gc.ca/en/videos/2020/06/25/remarks-additional-support-students-and-recent-grads). 
+I'm a full stack developer with a BSc in Computer Science from the University of British Columbia (2022). My most relevant experience comes from my 1 year COOP followed by a 1+ year permanent position as a full stack developer on the devops team at Mitacs, a research and innovation focused Canadian gem that was recognized as a key contributer to job creation during the pandemic by representatives at the highest level of the [Canadian government](https://pm.gc.ca/en/videos/2020/06/25/remarks-additional-support-students-and-recent-grads). 
